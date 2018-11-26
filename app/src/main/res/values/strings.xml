@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Retail Store</string>
+  <string name="add_to_cart">Add to Cart</string>
+  <string name="cart">Cart</string>
+  <string name="total_cost_1000">Total cost 1000</string>
+  <string name="remove_from_cart">Remove from Cart</string>
+  <string name="title_activity_temp">TempActivity</string>
+  <string name="added_text">Item Added to cart</string>
+  <string name="removed_text">Item Removed from cart</string>
+  <string name="detail_title">Item Detail</string>
+  <string name="cart_title">Your Cart</string>
+</resources>
